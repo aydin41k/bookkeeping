@@ -1,0 +1,28 @@
+html {
+	font-size:18px;
+}
+#invoices .draft {
+	color:red;
+}
+ul.sidebar {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+input.autofill {
+	border:none;
+	background-color:#777;
+	color:#fff;
+}
+.totals {
+	bottom:0;
+}
+.icon-remove {
+	cursor: pointer;
+}
+.lineitem {
+    padding: 10px 0;
+}
+.lineitem:nth-child(2n+1) {
+    background-color: #eee;
+}
